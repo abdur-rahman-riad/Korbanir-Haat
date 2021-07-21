@@ -1,0 +1,58 @@
+html{
+    scroll-behavior: smooth;
+}
+/*Custom Design */
+.custom-ul li{
+    padding: 0 8px;
+    font-weight: 600;
+    font-family: Volkhov;
+}
+.eid-mubarak{
+    font-size: 3.5em;
+    color: orangered;
+}
+.shubeccha{
+    color: teal;
+}
+.description{
+    text-align: justify;
+}
+.custom-card{
+    border: none;
+    border-radius: 10px;
+}
+.custom-card img{
+    border-radius: 12px;
+}
+.price{
+    font-family: Volkhov;
+    color: green;
+    font-weight: 600;
+}
+.custom-btn1{
+   background-color: crimson;
+   color: white;
+   padding: 5px 18px;
+   border: none;
+   border-radius: 5px;
+   font-family: Volkhov;
+}
+.custom-btn2{
+    background-color: darkblue;
+    color: white;
+    padding: 5px 18px;
+    border: none;
+    border-radius: 5px;
+    font-family: Volkhov;
+ }
+.custom-btn2{
+    background-color: teal;
+    color: white;
+    padding: 5px 18px;
+    border: none;
+    border-radius: 5px;
+    font-family: Volkhov;
+ }
+ .custom-font{
+    font-family: Volkhov;
+ }
